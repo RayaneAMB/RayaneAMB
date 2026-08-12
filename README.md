@@ -17,6 +17,4 @@
 
 ### 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-url)
-
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/rayane-ambar-13a78425a)
