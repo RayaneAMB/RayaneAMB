@@ -1,3 +1,8 @@
+# 👋 Hey, I'm Rayane!
+### 🎓 Computer Science Student & 💻 Full-Stack Developer
+
+
+
 ### 💻 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -14,6 +19,7 @@
 ### 📊 GitHub Stats:
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RayaneAMB&show_icons=true&theme=radical)
+
 
 ### 🌐 Connect with me:
 
