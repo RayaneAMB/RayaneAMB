@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayane</h1>
-<h3 align="center">Computer Science Student and Full stack developer 👨‍💻</h3>
+<h3 align="center">Computer Science Student and Full Stack Developer 👨‍💻</h3>
 
 <p align="center">
   <a href="https://fr.linkedin.com/in/rayane-ambar-13a78425a" target="_blank">
